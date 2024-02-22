@@ -7,7 +7,7 @@
 ## Languages 
 
 ### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/badeb1c8-2359-40bc-ad2f-6d4f9f1a658c" width="30" height="30"> Python
-### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/a90aca63-3061-446d-8b62-bcd1205a45c2" width="30" height="30"> C#
+### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/a90aca63-3061-446d-8b62-bcd1205a45c2" width="45" height="45"> C#
 
 ## Frameworks
 
