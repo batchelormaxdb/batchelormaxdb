@@ -6,7 +6,7 @@
 
 ## Languages 
 
-### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/badeb1c8-2359-40bc-ad2f-6d4f9f1a658c" width="25" height="25"> Python
+### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/badeb1c8-2359-40bc-ad2f-6d4f9f1a658c" width="30" height="30"> Python
 
 ## Frameworks
 
