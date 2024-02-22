@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/9d03d319-2fd1-4298-be5d-d8a6ec4c1c68" width="200" height="200">
 
-### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/a90aca63-3061-446d-8b62-bcd1205a45c2" width="50" height="50">
+### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/a90aca63-3061-446d-8b62-bcd1205a45c2" width="100" height="100">
 
 ## Frameworks
 
