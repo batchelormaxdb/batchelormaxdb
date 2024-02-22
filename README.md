@@ -1,4 +1,4 @@
-### Console.WriteLine("Hello everyone, my name is Max! 🤙");
+# Console.WriteLine("Hello everyone, my name is Max! 🤙");
 
 ## I am a front end web developer, with knowledge in several programming languages.
 ## I have already graduated with my Associate's degree in Computer Science and am currently attending university to receive my Bachelor's.
