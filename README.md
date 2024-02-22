@@ -6,8 +6,9 @@
 
 ## Languages 
 
-### Python <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/badeb1c8-2359-40bc-ad2f-6d4f9f1a658c" width="30" height="30">
-### C# <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/a90aca63-3061-446d-8b62-bcd1205a45c2" width="45" height="45">
+### ![image](https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/9d03d319-2fd1-4298-be5d-d8a6ec4c1c68)
+
+### <img src="https://github.com/batchelormaxdb/batchelormaxdb/assets/6302687/a90aca63-3061-446d-8b62-bcd1205a45c2">
 
 ## Frameworks
 
