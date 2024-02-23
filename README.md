@@ -10,11 +10,11 @@
 
 ## Frameworks
 
-
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express)](https://skillicons.dev)
 
 ## Applications
 
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,godot)](https://skillicons.dev)
 
 <!--
 **batchelormaxdb/batchelormaxdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
