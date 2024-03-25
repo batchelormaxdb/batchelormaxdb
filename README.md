@@ -10,7 +10,7 @@
 
 ## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,express)](https://skillicons.dev)
 
 ## Applications
 
