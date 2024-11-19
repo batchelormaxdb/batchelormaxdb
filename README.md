@@ -6,11 +6,11 @@
 
 ## Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,bash,cs)](https://skillicons.dev)
 
 ## Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=django,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,express,dotnet)](https://skillicons.dev)
 
 ## Applications
 
